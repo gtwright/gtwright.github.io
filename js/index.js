@@ -5,13 +5,7 @@ particlesJS("particles-js", {
     shape: {
       type: "circle",
       stroke: { width: 0, color: "#000000" },
-      polygon: { nb_sides: 5 },
-      image: {
-        src:
-          "http://wiki.lexisnexis.com/academic/images/f/fb/Itunes_podcast_icon_300.jpg",
-        width: 100,
-        height: 100
-      }
+      polygon: { nb_sides: 5 }
     },
     opacity: {
       value: 0.5,

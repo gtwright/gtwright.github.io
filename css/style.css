@@ -2,7 +2,7 @@
 body{ margin:0; } 
 canvas{ 
     display: block; 
-    /* vertical-align: bottom;  */
+    vertical-align: bottom;
 }
 
 /* ---- particles.js container ---- */ 
@@ -13,17 +13,10 @@ canvas{
     background-color: #043564; }
 
 /* ---- Name ---- */ 
-/* .main{
-    display:flex; 
-    position:absolute; 
-    justify-content: center;
-    width:100%;
-    min-height:100vh;} */
 .name {  
     /* width: 80px;  */
     color: white; 
     font-size: 1.8em; 
-    font-family: Helvetica, Arial, sans-serif; 
     font-weight: bold; 
     text-align: center;
     position: absolute;
@@ -46,7 +39,6 @@ h1,h2,h3,h4{
 .icons-social a {
 	color: #fff;
 }
-
 .icons-social a svg path{
 	fill: #fff;
 }
