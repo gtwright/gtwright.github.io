@@ -7,10 +7,11 @@ canvas{
 
 /* ---- particles.js container ---- */ 
 #particles-js{ 
-    position:absolute; 
-    width: 100%; 
-    height: 100%; 
-    background-color: #043564; }
+    position: absolute;
+    width: 100%;
+    min-height: 100%;
+    background-color: #043564;
+    height: 100vh; }
 
 /* ---- Name ---- */ 
 .name {  
